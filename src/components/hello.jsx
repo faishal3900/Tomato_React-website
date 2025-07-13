@@ -3,8 +3,7 @@ import React from 'react';
 const hello = () => {
   return (
     <div>
-      {console.log("hello")}
-      
+        hello world
     </div>
   );
 }
